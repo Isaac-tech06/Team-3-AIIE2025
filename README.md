@@ -6,7 +6,9 @@
 ## Dataset
 
 * Url:
-* #images: 
+* #images: 200
+  ** Car : 100
+  ** Motorcicle : 100
 
 
 ## Model
