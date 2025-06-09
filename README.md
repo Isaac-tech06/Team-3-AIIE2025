@@ -1,6 +1,6 @@
 # Vehicle Type Recognition With Deap Learning
 By: Justin - Carl - Isaac
-This project uses ai (deep learning) to classify 2 types of vehicles: Cars vs Motorcycles.
+* This project uses ai (deep learning) to classify 2 types of vehicles: Cars vs Motorcycles.
 
 # Dataset
 
