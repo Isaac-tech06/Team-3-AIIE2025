@@ -15,6 +15,11 @@ By: Justin - Carl - Isaac
 
 * Motorcycle: Images of motorcycles and motorbikes.
 
+* ![image](https://github.com/user-attachments/assets/e45b2949-ca61-4aae-a233-3a4909c3337d)
+* ![image](https://github.com/user-attachments/assets/6b3d7194-1874-4ada-a084-bdf5672be32f)
+
+
+
 ## Number of images in the dataset : 200
 * Car : 100 images
 * Motorcycle : 100 images
