@@ -17,7 +17,6 @@
 * Car : 100 images
 * Motorcicle : 100 images
 
-## Model
 ## Model Performance Table
 
 | Epoch | Layers | Batch Size | Train/Test Split          | Accuracy | Image Size |
