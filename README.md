@@ -17,7 +17,7 @@ By: Justin - Carl - Isaac
 
 ## Number of images in the dataset : 200
 * Car : 100 images
-* Motorcicle : 100 images
+* Motorcycle : 100 images
 
 ## Model
 * CNN (Convolutional Neural Network) - Deep learning model specialized for image processing. This model is designed for automatic learning of features such as edges, shapes, and image textures. 
