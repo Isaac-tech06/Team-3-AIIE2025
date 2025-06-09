@@ -1,7 +1,6 @@
-# Team-3-AIIE2025
-
-* Cars vs Motorcycles
-* Justin - Carl - Isaac
+# Vehicle Type Recognition With Deap Learning
+By: Justin - Carl - Isaac
+This project uses ai (deep learning) to classify 2 types of vehicles: Cars vs Motorcycles.
 
 # Dataset
 
