@@ -58,7 +58,7 @@ By: Justin - Carl - Isaac
 | 50    | 9      | 32         | 85% train, 15% test       | 94%      | 150 x 150  |
 
 ## Results
-![Model Preview](results chart.png)
+![Model Preview]("C:\Users\kpana\project1_aiie\Team-3-AIIE2025\results chart.png")
 
 
 
