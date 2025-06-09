@@ -57,6 +57,12 @@ By: Justin - Carl - Isaac
 | 30    | 13     | 32         | 85% train, 15% test       | 91%      | 150 x 150  |
 | 50    | 9      | 32         | 85% train, 15% test       | 94%      | 150 x 150  |
 
+## Results
+![Model Preview](results chart.png)
+
+
+
+
 ## Links to Google Colab Notebooks
 * 80:20 split = https://colab.research.google.com/drive/1Ng7Ce1vYFirSZeHEQ9JfkaCo7JqxBPt5?usp=sharing
 * 70:30 split = https://colab.research.google.com/drive/10s4Q-cvGm-MrF8D7zg2WOVY8_HBedFQo?usp=sharing
