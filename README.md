@@ -3,7 +3,7 @@ By: Justin - Carl - Isaac
 * This project uses AI (deep learning) to classify 2 types of vehicles: Cars vs Motorcycles.
 
 # Problem Statement
-* To develop a convolutional neural network (CNN)-based image classification model which can accurately distinguish between images of cars and motorcyles. 
+* To develop a convolutional neural network (CNN)-based image classification model which can accurately distinguish between images of cars and motorcycles. 
 
 # Dataset
 * Url: https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition
@@ -29,7 +29,7 @@ By: Justin - Carl - Isaac
 
 * Input - Images
 
-* The CNN models applies filters/kernels to the inputted image in order to extract features. This results in the creation of multiple feature maps which are then flattened and fed through dense layers. Finally, the model outputs a set of scores which represents the model's choice of classification. 
+* The CNN model applies filters/kernels to the inputted image in order to extract features. This results in the creation of multiple feature maps which are then flattened and fed through dense layers. Finally, the model outputs a set of scores which represents the model's choice of classification. 
 
 ## Image Processing
 * Our Vehicle Type Recognition dataset featured four folders (Bus, Car, Truck, motorcycle) each with 100 images (total of 400 files in our dataset).
@@ -43,7 +43,7 @@ By: Justin - Carl - Isaac
   * 50 : 50 = 50% (100 files) for training and 50% (50 files) for testing
   * 85 : 15 = 85% (175 files) for training and 15% (30 files) for testing
 
-* Since CNNs require a fixed input size for inputted images, we decided to test out three different image sizes to be fed into the model. These sizes include 150 x 150, 128 x 128 ,and 224 x 224. 
+* Since CNNs require a fixed input size for inputted images, we decided to test out three different image sizes to be fed into the model. These sizes include 150 x 150, 128 x 128, and 224 x 224. 
 ## Model Performance Table
 
 | Epoch | Layers | Batch Size | Train/Test Split          | Accuracy | Image Size |
@@ -68,8 +68,8 @@ By: Justin - Carl - Isaac
 * The trial that yielded our greatest accuracy percentage (95%) featured 20 epochs, 11 layers, a batch size of 32, an 80:20 train-test split, and an expected image size of 150 x 150.
 * Two trials yielded our lowest accuracy percentage of 50%, which is essentially the AI model's version of guessing. Both trials featured 3 epochs yet differed in all other attributes.
 * Our best results (95%, 94%, 94%) came from 150x150 image size, high layer counts (20-50), and a moderate batch size (11-13) with standard splits (80:20, 85:15).
-* Our poorest performing configurations (69%, 50%, 50%) featured very few epochs (3), larger image sizes (128x128, 224x224), and a lack of model depth. Due to the lack of epochs in those three trials, our machine learning model experienced underfitting (when a model is too simple to capture the underlying patterns provided in training data). Additionally, larger image sizes were used without the corresponding required deeper models, which in turn leads to a drop in performance. Increased image resolution + lack of corresponding model depth = poor performance.
-* In conclusion, our best results came from a combination of a moderate image size such as 150x150, a sufficient model depth (20-30 layers), balanced train/test splits (80:20, 85:15) and a moderately small batch sizes (~11 -13). Trials with too few layers or large input sizes without deep models convincingly underperformed.
+* Our poorest performing configurations (69%, 50%, 50%) featured very few epochs (3), larger image sizes (128x128, 224x224), and a lack of model depth. Due to the small number of epochs in those three trials, our machine learning model experienced underfitting (when a model is too simple to capture the underlying patterns provided in training data). Additionally, larger image sizes were used without the corresponding required deeper models, which in turn leads to a drop in performance. Increased image resolution + lack of corresponding model depth = poor performance.
+* In conclusion, our best results came from a combination of a moderate image size such as 150x150, a sufficient model depth (20-30 layers), balanced train/test splits (80:20, 85:15) and a moderately small number of layers (~11 -13). Trials with too few layers or large input sizes without deep models convincingly underperformed.
   
 ## Links to Google Colab Notebooks
 * 80:20 split = https://colab.research.google.com/drive/1Ng7Ce1vYFirSZeHEQ9JfkaCo7JqxBPt5?usp=sharing
