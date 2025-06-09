@@ -1,6 +1,6 @@
 # Team-3-AIIE2025
 
-* Cars vs Motorcicles
+* Cars vs Motorcycles
 * Justin - Carl - Isaac
 
 # Dataset
