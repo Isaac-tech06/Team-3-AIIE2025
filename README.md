@@ -3,10 +3,17 @@
 * Cars vs Motorcicles
 * Justin - Carl - Isaac
 
-## Dataset
+# Dataset
 
 * Url: https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition
-* #images: 200
+## Description : 
+*The dataset is organized into four classes, each representing a different type of vehicle:
+
+*Car: Images of different car models and types, captured from various angles and under different lighting conditions.
+
+*Motorcycle: Images of motorcycles and motorbikes.
+
+## #images: 200
 * Car : 100
 * Motorcicle : 100
 
