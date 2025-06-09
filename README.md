@@ -62,4 +62,4 @@ By: Justin - Carl - Isaac
 * 70:30 split = https://colab.research.google.com/drive/10s4Q-cvGm-MrF8D7zg2WOVY8_HBedFQo?usp=sharing
 * 60:40 split = https://colab.research.google.com/drive/1PiHsfhQMgLMYloThjE6qAj8tdc6GwPhp?usp=sharing
 * 50:50 split =
-* 85:15 split =
+* 85:15 split = https://colab.research.google.com/drive/1wmzZYqvsNKXAVRmucWe4GPjkLB8y8j_e?usp=sharing
