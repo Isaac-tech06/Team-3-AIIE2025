@@ -7,11 +7,11 @@
 
 * Url: https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition
 ## Description : 
-*The dataset is organized into four classes, each representing a different type of vehicle:
+* The dataset is organized into four classes, each representing a different type of vehicle:
 
-*Car: Images of different car models and types, captured from various angles and under different lighting conditions.
+* Car: Images of different car models and types, captured from various angles and under different lighting conditions.
 
-*Motorcycle: Images of motorcycles and motorbikes.
+* Motorcycle: Images of motorcycles and motorbikes.
 
 ## #images: 200
 * Car : 100
