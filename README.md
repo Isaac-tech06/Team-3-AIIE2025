@@ -58,9 +58,7 @@ By: Justin - Carl - Isaac
 | 50    | 9      | 32         | 85% train, 15% test       | 94%      | 150 x 150  |
 
 ## Results
-![Model Preview](results chart.png)
-
-
+![results chart](https://github.com/user-attachments/assets/42e703a5-b2e8-4778-9e51-ed73abaf5640)
 
 
 ## Links to Google Colab Notebooks
