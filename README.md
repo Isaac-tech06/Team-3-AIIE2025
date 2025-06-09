@@ -67,5 +67,5 @@ By: Justin - Carl - Isaac
 * 80:20 split = https://colab.research.google.com/drive/1Ng7Ce1vYFirSZeHEQ9JfkaCo7JqxBPt5?usp=sharing
 * 70:30 split = https://colab.research.google.com/drive/10s4Q-cvGm-MrF8D7zg2WOVY8_HBedFQo?usp=sharing
 * 60:40 split = https://colab.research.google.com/drive/1PiHsfhQMgLMYloThjE6qAj8tdc6GwPhp?usp=sharing
-* 50:50 split =
+* 50:50 split = https://colab.research.google.com/drive/1w-8C-cUREOqzPfSk_ZQX3Dr9UEomwDuB?usp=sharing
 * 85:15 split = https://colab.research.google.com/drive/1wmzZYqvsNKXAVRmucWe4GPjkLB8y8j_e?usp=sharing
