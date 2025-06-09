@@ -13,9 +13,8 @@
 
 * Motorcycle: Images of motorcycles and motorbikes.
 
-## #images: 200
-* Car : 100
-* Motorcicle : 100
-
+## Number of images in the dataset : 200
+* Car : 100 images
+* Motorcicle : 100 images
 
 ## Model
