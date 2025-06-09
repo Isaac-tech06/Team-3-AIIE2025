@@ -32,8 +32,8 @@ By: Justin - Carl - Isaac
 * The Car and motorcycle folders were moved to a separate "test" and "train" directory where we split the photos accordingly for each trial.
 
 * The splits used for this experiment include:
-* 80 : 20 = 80% (160 files) for training and 20% (40 files) for testing
-* 70 : 30 = 70% (140 files) for training and 30% (60 files) for testing
+  80 : 20 = 80% (160 files) for training and 20% (40 files) for testing
+  70 : 30 = 70% (140 files) for training and 30% (60 files) for testing
 * 60 : 40 = 60% (120 files) for training and 40% (80 files) for testing
 * 50 : 50 = 50% (100 files) for training and 50% (50 files) for testing
 * 85 : 15 = 85% (175 files) for training and 15% (30 files) for testing
