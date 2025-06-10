@@ -52,6 +52,15 @@ By: Justin - Carl - Isaac
 
 ![image](https://github.com/user-attachments/assets/c176c995-16d3-439c-9a76-b6f4853ebde5)
 
+## Imported Libraries and Modules
+* Kagglehub
+* Shutil
+* OS
+* TensorFlow
+* Keras
+* Random
+* PIL
+* 
 
 ## Model Performance Table
 
