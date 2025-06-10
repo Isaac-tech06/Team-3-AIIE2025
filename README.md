@@ -60,7 +60,7 @@ By: Justin - Carl - Isaac
 * Keras
 * Random
 * PIL
-* 
+* Image (PIL)
 
 ## Model Performance Table
 
