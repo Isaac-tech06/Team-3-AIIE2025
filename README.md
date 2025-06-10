@@ -55,7 +55,7 @@ By: Justin - Carl - Isaac
 ## Imported Libraries and Modules
 * Kagglehub
 * Shutil
-* OS
+* os
 * TensorFlow
 * Keras
 * Random
