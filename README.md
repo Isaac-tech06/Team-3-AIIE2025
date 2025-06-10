@@ -29,7 +29,7 @@ By: Justin - Carl - Isaac
 
 * Input - Images
 
-* The CNN model applies filters/kernels to the inputted image in order to extract features. This results in the creation of multiple feature maps which are then flattened and fed through dense layers. Finally, the model outputs a set of scores which represents the model's choice of classification. 
+* The CNN model applies filters/kernels to the inputted image in order to extract features. This results in the creation of multiple feature maps which are then flattened and fed through dense layers. Finally, the model outputs a set of scores which represents the model's choice of classification.
 
 ## Image Processing
 * Our Vehicle Type Recognition dataset featured four folders (Bus, Car, Truck, motorcycle) each with 100 images (total of 400 files in our dataset).
@@ -43,7 +43,16 @@ By: Justin - Carl - Isaac
   * 50 : 50 = 50% (100 files) for training and 50% (50 files) for testing
   * 85 : 15 = 85% (175 files) for training and 15% (30 files) for testing
 
-* Since CNNs require a fixed input size for inputted images, we decided to test out three different image sizes to be fed into the model. These sizes include 150 x 150, 128 x 128, and 224 x 224. 
+* Since CNNs require a fixed input size for inputted images, we decided to test out three different image sizes to be fed into the model. These sizes include 150 x 150, 128 x 128, and 224 x 224.
+
+## Model Pictures
+![image](https://github.com/user-attachments/assets/3d8c9a47-4601-4af1-b7ad-fc45c516b9e1)
+
+![image](https://github.com/user-attachments/assets/d24b9f42-845c-4d1e-8eb8-c25cfbbbdd0f)
+
+![image](https://github.com/user-attachments/assets/c176c995-16d3-439c-9a76-b6f4853ebde5)
+
+
 ## Model Performance Table
 
 | Epoch | Layers | Batch Size | Train/Test Split          | Accuracy | Image Size |
