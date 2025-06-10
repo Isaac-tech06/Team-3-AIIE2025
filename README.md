@@ -70,6 +70,8 @@ By: Justin - Carl - Isaac
 * Our best results (95%, 94%, 94%) came from 150x150 image size, high layer counts (20-50), and a moderate batch size (11-13) with standard splits (80:20, 85:15).
 * Our poorest performing configurations (69%, 50%, 50%) featured very few epochs (3), larger image sizes (128x128, 224x224), and a lack of model depth. Due to the small number of epochs in those three trials, our machine learning model experienced underfitting (when a model is too simple to capture the underlying patterns provided in training data). Additionally, larger image sizes were used without the corresponding required deeper models, which in turn leads to a drop in performance. Increased image resolution + lack of corresponding model depth = poor performance.
 * In conclusion, our best results came from a combination of a moderate image size such as 150x150, a sufficient model depth (20-30 layers), balanced train/test splits (80:20, 85:15) and a moderately small number of layers (~11 -13). Trials with too few layers or large input sizes without deep models convincingly underperformed.
+
+* Final Model – A CNN with 11 layers, trained for 20 epochs using a batch size of 32, an 80:20 train-test split, and fixed input image size of 150×150.
   
 ## Links to Google Colab Notebooks
 * 80:20 split = https://colab.research.google.com/drive/1Ng7Ce1vYFirSZeHEQ9JfkaCo7JqxBPt5?usp=sharing
